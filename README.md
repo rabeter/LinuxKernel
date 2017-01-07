@@ -1,2 +1,2 @@
 # LinuxKernel
-LinuxKernel boot and qt
+[LinuxKernel]https://www.kernel.org/
